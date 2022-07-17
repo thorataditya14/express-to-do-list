@@ -18,5 +18,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
 }
